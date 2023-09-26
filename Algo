@@ -3,7 +3,12 @@
 3. testing testing 123
 taco tuesday at a pizza place sounds crazy
 this is the main one before additions of cities
+<<<<<<< HEAD
 boston
 washington dc 
 atlanta
 new york 
+=======
+lets see if it adds these lines
+random cities will be here
+>>>>>>> main
